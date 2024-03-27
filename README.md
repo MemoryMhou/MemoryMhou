@@ -5,8 +5,6 @@ Driven and imaginative, I am an aspiring Full stack developer , data scientist w
 
 ## Skills and Experience
 
-## Skills and Experience
-
 Swift ![Swift Icon](https://img.icons8.com/color/48/000000/swift.png) - SwiftUI ![SwiftUI Icon](https://img.icons8.com/color/48/000000/swiftui.png) - Python ![Python Icon](https://img.icons8.com/color/48/000000/python.png) - Kotlin ![Kotlin Icon](https://img.icons8.com/color/48/000000/kotlin.png) - Java ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) - UIKit ![UIKit Icon](https://img.icons8.com/ios-filled/50/000000/ios-logo.png)
 
 
@@ -18,7 +16,7 @@ Swift ![Swift Icon](https://img.icons8.com/color/48/000000/swift.png) - SwiftUI 
 
 ### Mobile Apps
 1. **Calculator App**
-- <img src="https://github.com/MemoryMhou/MemoryMhou/raw/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202024-03-27%20at%2015.07.08.png" alt="Calculator App Screenshot" width="150"> <img src="https://github.com/MemoryMhou/MemoryMhou/raw/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202024-03-27%20at%2015.46.37.png" alt="Launch Screen Screenshot" width="150">
+<img src="https://github.com/MemoryMhou/MemoryMhou/raw/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202024-03-27%20at%2015.46.37.png" alt="Launch Screen Screenshot" width="150"> <img src="https://github.com/MemoryMhou/MemoryMhou/raw/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202024-03-27%20at%2015.07.08.png" alt="Calculator App Screenshot" width="150">
  
  **Description:**
   A basic Calculator App developed in Swift, following MVC architecture and utilizing Storyboards for UI. The APP supports standard arithmetic operations.
