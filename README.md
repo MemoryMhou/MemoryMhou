@@ -1,7 +1,7 @@
 # Memory Mhou's Portfolio
 
 ## About Me
-I am Memory Mhou, a passionate developer with experience in building mobile apps using Swift and websites using HTML, CSS, and JavaScript.
+I am Memory Mhou, a passionate Full stack developer with experience in building mobile apps using Swift and websites using HTML, CSS, and JavaScript.
 
 
 ## GitHub Stats
