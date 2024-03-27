@@ -11,5 +11,6 @@ I am Memory Mhou, a passionate Full stack developer with experience in building 
 
 ### Mobile Apps
 1. **Calculator App**
-   - <img src="https://github.com/MemoryMhou/MemoryMhou/raw/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202024-03-27%20at%2015.07.08.png" alt="Calculator App Screenshot" width="150">
+ <img src="https://github.com/MemoryMhou/MemoryMhou/raw/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202024-03-27%20at%2015.07.08.png" alt="Calculator App Screenshot" width="150">
+ 
    - **Description:** A basic Calculator App developed in Swift, following MVC architecture and utilizing Storyboards for UI. Supports standard arithmetic operations.
