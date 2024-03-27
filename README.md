@@ -7,7 +7,7 @@ Driven and imaginative, I am an aspiring Full stack developer , data scientist w
 
 ## Skills and Experience
 
-- Swift ![Swift Icon](https://img.icons8.com/color/48/000000/swift.png) - SwiftUI ![SwiftUI Icon](https://img.icons8.com/color/48/000000/swiftui.png) - Python ![Python Icon](https://img.icons8.com/color/48/000000/python.png) - Kotlin ![Kotlin Icon](https://img.icons8.com/color/48/000000/kotlin.png) - Java ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) - UIKit ![UIKit Icon](https://img.icons8.com/ios-filled/50/000000/ios-logo.png)
+Swift ![Swift Icon](https://img.icons8.com/color/48/000000/swift.png) - SwiftUI ![SwiftUI Icon](https://img.icons8.com/color/48/000000/swiftui.png) - Python ![Python Icon](https://img.icons8.com/color/48/000000/python.png) - Kotlin ![Kotlin Icon](https://img.icons8.com/color/48/000000/kotlin.png) - Java ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) - UIKit ![UIKit Icon](https://img.icons8.com/ios-filled/50/000000/ios-logo.png)
 
 
 
