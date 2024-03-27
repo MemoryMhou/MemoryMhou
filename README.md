@@ -1,7 +1,17 @@
 # Memory Mhou's Portfolio
 
 ## About Me
-I am Memory Mhou, a passionate Full stack developer with experience in building mobile apps using Swift and websites using HTML, CSS, and JavaScript.
+Driven and imaginative, I am an aspiring Full stack developer , data scientist with a solid programming foundation and an insatiable curiosity, I bring a unique perspective and a hunger to excel in the world of development and analytics. As a female candidate, I am dedicated to fostering inclusivity and collaboration while crafting user-centered experiences. Let's join forces to create innovative, user-friendly innovations that make a meaningful impacton people's lives.
+
+## Skills and Experience
+
+- Swift ![Swift Icon](https://img.icons8.com/color/48/000000/swift.png)
+- SwiftUI ![SwiftUI Icon](https://img.icons8.com/color/48/000000/swiftui.png)
+- Python ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+- Kotlin ![Kotlin Icon](https://img.icons8.com/color/48/000000/kotlin.png)
+- Java ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+- UIKit ![UIKit Icon](https://img.icons8.com/ios-filled/50/000000/ios-logo.png)
+
 
 
 ## GitHub Stats
