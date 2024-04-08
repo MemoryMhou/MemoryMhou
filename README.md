@@ -31,10 +31,20 @@ The Weather Forecast App is a Swift-based mobile application designed to provide
 
 
 
-3. **Calculator App**
+2. **Calculator App**
    
 <img src="https://github.com/MemoryMhou/MemoryMhou/raw/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20Max%20-%202024-03-27%20at%2015.46.37.png" alt="Launch Screen Screenshot" width="150"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/MemoryMhou/MemoryMhou/raw/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202024-03-27%20at%2015.07.08.png" alt="Calculator App Screenshot" width="150">
  
  
  **Description:**
   A basic Calculator App developed in Swift, following MVC architecture and utilizing Storyboards for UI. The APP supports standard arithmetic operations.
+
+
+3. **To do list App**
+   
+<img src="https://github.com/MemoryMhou/MemoryMhou/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20-%202024-04-08%20at%2023.26.24.png" alt="Launch Screen Screenshot" width="150"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/MemoryMhou/MemoryMhou/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20-%202024-04-08%20at%2023.26.31.png" alt="Calculator App Screenshot" width="150">
+ 
+ 
+ **Description:**
+
+To-Do List App is a Swift-based application using Core Data for data management. With a minimalist UI, users can add, edit, and delete tasks. The app's functionalities include real-time synchronization,  task categorization, and integration with Apple's UIKit framework for user experience. The app is created for organizing daily schedules and boosting productivity.
